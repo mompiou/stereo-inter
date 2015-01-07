@@ -6,7 +6,7 @@ Stereo-inter is a python script that draws the stereographic projections of 2 cr
 
 * Python 2.7 with Matplotlib, Numpy, Tkinter, PIL (available through [Enthought Canopy](https://store.enthought.com/downloads/) or [Anaconda](http://continuum.io/downloads) distributions for instance).
 * Mac users need to install [Active Tcl](http://www.activestate.com/activetcl/downloads).
-* Run the script python /my-path-to-the-script/stereo-proj.py
+* Run the script python /my-path-to-the-script/stereo-inter.py
 
 # User guide
 
